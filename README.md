@@ -1,6 +1,6 @@
 # Awesome advanced deep learning
 ### Must-read papers and must-known concepts
-
+<br/>
 
 ## [Architectures](https://github.com/lrunaways/awesome-deep-learning-mustreads/blob/master/topics/Architectures.rst)
 Neural networks evolution
@@ -24,4 +24,4 @@ Generating and using synthetic data to improve performance on real data
 Generative adversarial network evolution, tips on training
 
 ## [Other AI](https://github.com/lrunaways/awesome-deep-learning-mustreads/blob/master/topics/Other.rst)
-Great AI articles, blogs
+Great AI articles, blogs and awesome lists
