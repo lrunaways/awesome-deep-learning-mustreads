@@ -84,3 +84,4 @@ Great AI articles, blogs and awesome lists
 <br/>
 [A Recipe for Training Neural Networks Apr 25 2019](http://karpathy.github.io/2019/04/25/recipe/)
 <br/>
+[NVIDIA Deep Learning Performance](https://docs.nvidia.com/deeplearning/performance/index.html)
