@@ -7,8 +7,8 @@ Neural networks evolution
 
 ## [Training](https://github.com/lrunaways/awesome-deep-learning-mustreads/blob/master/topics/Training.rst)
 Optimization techniques, regularization, tips & tricks, distribution
-[Multi-GPU Training of ConvNets 18 Feb 2014](https://arxiv.org/pdf/1312.5853.pdf)
-[Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis 15 Sep 2018](https://arxiv.org/pdf/1802.09941.pdf)
+[Multi-GPU Training of ConvNets 18 Feb 2014](https://arxiv.org/pdf/1312.5853.pdf)<br/>
+[Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis 15 Sep 2018](https://arxiv.org/pdf/1802.09941.pdf)<br/>
 [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour 30 Apr 2018](https://arxiv.org/pdf/1706.02677.pdf)
 [Highly Scalable Deep Learning Training System with Mixed-Precision: Training ImageNet in Four Minutes 30 Jul 2018](https://arxiv.org/pdf/1807.11205.pdf)
 [MIXED PRECISION TRAINING 15 Feb 2018](https://arxiv.org/pdf/1710.03740.pdf)
