@@ -15,6 +15,8 @@ Optimization techniques, regularization, tips & tricks, distribution
 <br/>
 [Multi-GPU Training of ConvNets 18 Feb 2014](https://arxiv.org/pdf/1312.5853.pdf)
 <br/>
+[Parallel and Distributed Deep Learning](https://web.stanford.edu/~rezab/classes/cme323/S16/projects_reports/hedge_usmani.pdf)
+<br/>
 [Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis 15 Sep 2018](https://arxiv.org/pdf/1802.09941.pdf)
 <br/>
 [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour 30 Apr 2018](https://arxiv.org/pdf/1706.02677.pdf)
