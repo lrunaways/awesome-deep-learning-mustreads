@@ -74,8 +74,8 @@ Generative adversarial network evolution, tips on training
 <br/>
 <br/>
 
-## [Other AI](https://github.com/lrunaways/awesome-deep-learning-mustreads/blob/master/topics/Other.rst)
-Great AI articles, blogs and awesome lists
+## [Other](https://github.com/lrunaways/awesome-deep-learning-mustreads/blob/master/topics/Other.rst)
+Great articles, blogs and awesome lists
 <br/>
 <br/>
 [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
