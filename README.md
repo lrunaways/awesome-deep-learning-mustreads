@@ -27,6 +27,8 @@ Optimization techniques, regularization, tips & tricks, distribution
 <br/>
 [A Survey on Distributed Machine Learning 20 Dec 2019](https://arxiv.org/ftp/arxiv/papers/1912/1912.09789.pdf)
 <br/>
+[NVIDIA Deep Learning Performance](https://docs.nvidia.com/deeplearning/performance/index.html)
+<br/>
 <br/>
 ## [Theory](https://github.com/lrunaways/awesome-deep-learning-mustreads/blob/master/topics/Theory.rst)
  Understanding how neural networks work on a deeper level
@@ -83,5 +85,3 @@ Great AI articles, blogs and awesome lists
 [Google AI blog](https://ai.googleblog.com/)
 <br/>
 [A Recipe for Training Neural Networks Apr 25 2019](http://karpathy.github.io/2019/04/25/recipe/)
-<br/>
-[NVIDIA Deep Learning Performance](https://docs.nvidia.com/deeplearning/performance/index.html)
