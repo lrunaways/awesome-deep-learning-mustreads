@@ -78,6 +78,8 @@ Generative adversarial network evolution, tips on training
 Great AI articles, blogs and awesome lists
 <br/>
 <br/>
+[PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+<br/>
 [Distill blog](https://distill.pub/)
 <br/>
 [OpenAI blog](https://openai.com/blog/)
