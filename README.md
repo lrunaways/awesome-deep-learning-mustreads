@@ -6,6 +6,9 @@
 Neural networks evolution
 <br/>
 <br/>
+[Dilated Residual Networks 28 May 2017](https://arxiv.org/pdf/1705.09914.pdf)
+<br/>
+<br/>
 ## [Training](https://github.com/lrunaways/awesome-deep-learning-mustreads/blob/master/topics/Training.rst)
 Optimization techniques, regularization, tips & tricks, distribution
 <br/>
@@ -35,8 +38,6 @@ Optimization techniques, regularization, tips & tricks, distribution
 ## [Computer vision](https://github.com/lrunaways/awesome-deep-learning-mustreads/blob/master/topics/Computer_vision.rst)
 Semantic segmentation, object localization
 <br/>
-<br/>
-[Dilated Residual Networks 28 May 2017](https://arxiv.org/pdf/1705.09914.pdf)
 <br/>
 [On the Benefit of Adversarial Training for Monocular Depth Estimation 29 Oct 2019](https://arxiv.org/pdf/1910.13340.pdf)
 <br/>
