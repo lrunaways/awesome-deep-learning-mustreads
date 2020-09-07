@@ -58,6 +58,8 @@ Generating and using synthetic data to improve performance on real data
 Generative adversarial network evolution, tips on training
 <br/>
 <br/>
+[Deep Convolutional Generative Adversarial Networks 19 Nov 2015](https://arxiv.org/abs/1511.06434)
+<br/>
 [PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION 26 Feb 2018](https://arxiv.org/pdf/1710.10196.pdf)
 <br/>
 [Image-to-Image Translation with Conditional Adversarial Networks 26 Nov 2018](https://arxiv.org/pdf/1611.07004.pdf)
@@ -71,6 +73,8 @@ Generative adversarial network evolution, tips on training
 [A Style-Based Generator Architecture for Generative Adversarial Networks 29 Mar 2019](https://arxiv.org/pdf/1812.04948.pdf)
 <br/>
 [Analyzing and Improving the Image Quality of StyleGAN 23 Mar 2020](https://arxiv.org/pdf/1912.04958.pdf) 
+<br/>
+[Deep Convolutional Generative Adversarial Networks 19 Nov 2015](https://arxiv.org/abs/1511.06434)
 <br/>
 <br/>
 
