@@ -45,6 +45,8 @@ Optimization techniques, regularization, tips & tricks, distribution
 Semantic segmentation, object localization
 <br/>
 <br/>
+[Hypercolumns for Object Segmentation and Fine-grained Localization](https://arxiv.org/pdf/1411.5752.pdf)
+<br/>
 [On the Benefit of Adversarial Training for Monocular Depth Estimation 29 Oct 2019](https://arxiv.org/pdf/1910.13340.pdf)
 <br/>
 <br/>
