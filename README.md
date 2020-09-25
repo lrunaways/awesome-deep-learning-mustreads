@@ -37,6 +37,8 @@ Optimization techniques, regularization, tips & tricks, distribution
  [UNDERSTANDING DEEP LEARNING REQUIRES RETHINKING GENERALIZATION 26 Feb 2017](https://arxiv.org/pdf/1611.03530.pdf)
  <br/>
  [Emergence of Invariance and Disentanglement in Deep Representations 28 Jun 2018](https://arxiv.org/pdf/1706.01350.pdf)
+ <br/>
+ [Averaging Weights Leads to Wider Optima and Better Generalization 25 Feb 2019](https://arxiv.org/pdf/1803.05407.pdf)
 <br/>
 <br/>
 ## [Computer vision](https://github.com/lrunaways/awesome-deep-learning-mustreads/blob/master/topics/Computer_vision.rst)
