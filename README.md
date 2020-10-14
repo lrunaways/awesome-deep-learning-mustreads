@@ -13,6 +13,8 @@ Neural networks evolution
 Optimization techniques, regularization, tips & tricks, distribution
 <br/>
 <br/>
+[A Recipe for Training Neural Networks Apr 25 2019](http://karpathy.github.io/2019/04/25/recipe/)
+<br/>
 [Multi-GPU Training of ConvNets 18 Feb 2014](https://arxiv.org/pdf/1312.5853.pdf)
 <br/>
 [Parallel and Distributed Deep Learning](https://web.stanford.edu/~rezab/classes/cme323/S16/projects_reports/hedge_usmani.pdf)
@@ -102,4 +104,4 @@ Great articles, blogs and awesome lists
 <br/>
 [Google AI blog](https://ai.googleblog.com/)
 <br/>
-[A Recipe for Training Neural Networks Apr 25 2019](http://karpathy.github.io/2019/04/25/recipe/)
+
