@@ -90,7 +90,7 @@ Generative adversarial network evolution, tips on training
 <br/>
 [Analyzing and Improving the Image Quality of StyleGAN 23 Mar 2020](https://arxiv.org/pdf/1912.04958.pdf) 
 <br/>
-
+[Interpreting the Latent Space of GANs for Semantic Face Editing](https://arxiv.org/abs/1411.1784)
 <br/>
 <br/>
 
