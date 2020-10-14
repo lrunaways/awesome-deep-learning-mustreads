@@ -32,13 +32,15 @@ Optimization techniques, regularization, tips & tricks, distribution
 <br/>
 ## [Theory](https://github.com/lrunaways/awesome-deep-learning-mustreads/blob/master/topics/Theory.rst)
  Understanding how neural networks work on a deeper level
- <br/>
- <br/>
- [UNDERSTANDING DEEP LEARNING REQUIRES RETHINKING GENERALIZATION 26 Feb 2017](https://arxiv.org/pdf/1611.03530.pdf)
- <br/>
- [Emergence of Invariance and Disentanglement in Deep Representations 28 Jun 2018](https://arxiv.org/pdf/1706.01350.pdf)
- <br/>
- [Averaging Weights Leads to Wider Optima and Better Generalization 25 Feb 2019](https://arxiv.org/pdf/1803.05407.pdf)
+<br/>
+<br/>
+[Deconvolution and Checkerboard Artifacts 2016](http://doi.org/10.23915/distill.00003)
+<br/>
+[UNDERSTANDING DEEP LEARNING REQUIRES RETHINKING GENERALIZATION 26 Feb 2017](https://arxiv.org/pdf/1611.03530.pdf)
+<br/>
+[Emergence of Invariance and Disentanglement in Deep Representations 28 Jun 2018](https://arxiv.org/pdf/1706.01350.pdf)
+<br/>
+[Averaging Weights Leads to Wider Optima and Better Generalization 25 Feb 2019](https://arxiv.org/pdf/1803.05407.pdf)
 <br/>
 <br/>
 ## [Computer vision](https://github.com/lrunaways/awesome-deep-learning-mustreads/blob/master/topics/Computer_vision.rst)
@@ -63,6 +65,12 @@ Generative adversarial network evolution, tips on training
 <br/>
 <br/>
 [Deep Convolutional Generative Adversarial Networks 19 Nov 2015](https://arxiv.org/abs/1511.06434)
+<br/>
+[Wasserstein GAN 6 Dec 2017](https://arxiv.org/pdf/1701.07875.pdf)
+<br/>
+[Improved Training of Wasserstein GANs 31 Mar 2017](https://arxiv.org/abs/1704.00028)
+<br/>
+[From GAN to WGAN 20 Aug 2017](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
 <br/>
 [PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION 26 Feb 2018](https://arxiv.org/pdf/1710.10196.pdf)
 <br/>
