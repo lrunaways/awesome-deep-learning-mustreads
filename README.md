@@ -66,6 +66,8 @@ Generating and using synthetic data to improve performance on real data
 Generative adversarial network evolution, tips on training
 <br/>
 <br/>
+[Conditional Generative Adversarial Nets 6 Nov 2014](https://arxiv.org/abs/1411.1784)
+<br/>
 [Deep Convolutional Generative Adversarial Networks 19 Nov 2015](https://arxiv.org/abs/1511.06434)
 <br/>
 [Wasserstein GAN 6 Dec 2017](https://arxiv.org/pdf/1701.07875.pdf)
