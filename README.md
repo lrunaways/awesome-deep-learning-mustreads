@@ -86,7 +86,7 @@ Generative adversarial network evolution, tips on training
 <br/>
 [Analyzing and Improving the Image Quality of StyleGAN 23 Mar 2020](https://arxiv.org/pdf/1912.04958.pdf) 
 <br/>
-[Deep Convolutional Generative Adversarial Networks 19 Nov 2015](https://arxiv.org/abs/1511.06434)
+
 <br/>
 <br/>
 
