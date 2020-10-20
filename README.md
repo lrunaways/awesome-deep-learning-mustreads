@@ -90,7 +90,11 @@ Generative adversarial network evolution, tips on training
 <br/>
 [Analyzing and Improving the Image Quality of StyleGAN 23 Mar 2020](https://arxiv.org/pdf/1912.04958.pdf) 
 <br/>
-[Interpreting the Latent Space of GANs for Semantic Face Editing](https://arxiv.org/abs/1411.1784)
+[Interpreting the Latent Space of GANs for Semantic Face Editing 25 Jul 2019](https://arxiv.org/abs/1907.10786)
+<br/>
+[Fast Fréchet Inception Distance 29 Sep 2020](https://arxiv.org/pdf/2009.14075.pdf)
+<br/>
+[Pros and Cons of GAN Evaluation Measures 9 Feb 2018 ](https://arxiv.org/abs/1802.03446)
 <br/>
 <br/>
 
