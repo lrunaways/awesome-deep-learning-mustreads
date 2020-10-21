@@ -67,6 +67,8 @@ Generating and using synthetic data to improve performance on real data
 Generative adversarial network evolution, tips on training
 <br/>
 <br/>
+[Deeplearning.ai specialization: Generative Adversarial Networks](https://www.coursera.org/specializations/generative-adversarial-networks-gans)
+<br/>
 [Conditional Generative Adversarial Nets 6 Nov 2014](https://arxiv.org/abs/1411.1784)
 <br/>
 [Deep Convolutional Generative Adversarial Networks 19 Nov 2015](https://arxiv.org/abs/1511.06434)
@@ -105,6 +107,7 @@ Generative adversarial network evolution, tips on training
 <br/>
 (https://medium.com/@jonathan_hui/gan-how-to-measure-gan-performance-64b988c47732)
 (https://machinelearningmastery.com/how-to-implement-the-frechet-inception-distance-fid-from-scratch/)
+(https://github.com/sahilkhose/Generative-Adversarial-Networks-GANs-Specialization)
 <br/>
 
 ## [Other](https://github.com/lrunaways/awesome-deep-learning-mustreads/blob/master/topics/Other.rst)
