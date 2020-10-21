@@ -5,6 +5,7 @@
 ## [Architectures](https://github.com/lrunaways/awesome-deep-learning-mustreads/blob/master/topics/Architectures.rst)
 Neural networks evolution
 <br/>
+[Review: Inception-v3 Sep 10 2018](https://medium.com/@sh.tsang/review-inception-v3-1st-runner-up-image-classification-in-ilsvrc-2015-17915421f77c)
 <br/>
 [Dilated Residual Networks 28 May 2017](https://arxiv.org/pdf/1705.09914.pdf)
 <br/>
@@ -96,6 +97,14 @@ Generative adversarial network evolution, tips on training
 <br/>
 [Pros and Cons of GAN Evaluation Measures 9 Feb 2018 ](https://arxiv.org/abs/1802.03446)
 <br/>
+[Large Scale GAN Training for High Fidelity Natural Image Synthesis 28 Sep 2018](https://arxiv.org/abs/1809.11096)
+<br/>
+[HYPE: A Benchmark for Human eYe Perceptual Evaluation of Generative Models 1 Apr 2019](https://arxiv.org/abs/1904.01121)
+<br/>
+[Improved Precision and Recall Metric for Assessing Generative Models 15 Apr 2019](https://arxiv.org/abs/1904.06991)
+<br/>
+(https://medium.com/@jonathan_hui/gan-how-to-measure-gan-performance-64b988c47732)
+(https://machinelearningmastery.com/how-to-implement-the-frechet-inception-distance-fid-from-scratch/)
 <br/>
 
 ## [Other](https://github.com/lrunaways/awesome-deep-learning-mustreads/blob/master/topics/Other.rst)
