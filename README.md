@@ -8,7 +8,7 @@ Neural networks evolution
 [Review: Inception-v3 Sep 10 2018](https://medium.com/@sh.tsang/review-inception-v3-1st-runner-up-image-classification-in-ilsvrc-2015-17915421f77c)
 <br/>
 [Dilated Residual Networks 28 May 2017](https://arxiv.org/pdf/1705.09914.pdf)
-[EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)
+[EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks 28 May 2019](https://arxiv.org/abs/1905.11946)
 <br/>
 <br/>
 ## [Training](https://github.com/lrunaways/awesome-deep-learning-mustreads/blob/master/topics/Training.rst)
