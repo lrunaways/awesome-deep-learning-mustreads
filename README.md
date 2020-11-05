@@ -34,6 +34,8 @@ Optimization techniques, regularization, tips & tricks, distribution
 <br/>
 [NVIDIA Deep Learning Performance](https://docs.nvidia.com/deeplearning/performance/index.html)
 <br/>
+[Stochastic Weight Averaging](https://towardsdatascience.com/stochastic-weight-averaging-a-new-way-to-get-state-of-the-art-results-in-deep-learning-c639ccf36a)
+<br/>
 <br/>
 ## [Theory](https://github.com/lrunaways/awesome-deep-learning-mustreads/blob/master/topics/Theory.rst)
  Understanding how neural networks work on a deeper level
@@ -99,13 +101,15 @@ Generative adversarial network evolution, tips on training
 <br/>
 [Fast Fréchet Inception Distance 29 Sep 2020](https://arxiv.org/pdf/2009.14075.pdf)
 <br/>
-[Pros and Cons of GAN Evaluation Measures 9 Feb 2018 ](https://arxiv.org/abs/1802.03446)
+[Pros and Cons of GAN Evaluation Measures 9 Feb 2018](https://arxiv.org/abs/1802.03446)
 <br/>
 [Large Scale GAN Training for High Fidelity Natural Image Synthesis 28 Sep 2018](https://arxiv.org/abs/1809.11096)
 <br/>
 [HYPE: A Benchmark for Human eYe Perceptual Evaluation of Generative Models 1 Apr 2019](https://arxiv.org/abs/1904.01121)
 <br/>
 [Improved Precision and Recall Metric for Assessing Generative Models 15 Apr 2019](https://arxiv.org/abs/1904.06991)
+<br/>
+[GANILLA: Generative Adversarial Networks for Image to Illustration Translation 13 Feb 2020](https://arxiv.org/abs/2002.05638)
 <br/>
 (https://medium.com/@jonathan_hui/gan-how-to-measure-gan-performance-64b988c47732)
 (https://machinelearningmastery.com/how-to-implement-the-frechet-inception-distance-fid-from-scratch/)
@@ -124,4 +128,6 @@ Great articles, blogs and awesome lists
 <br/>
 [Google AI blog](https://ai.googleblog.com/)
 <br/>
-
+[Neurohive](https://neurohive.io/)
+<br/>
+[Towards data science](https://towardsdatascience.com)
