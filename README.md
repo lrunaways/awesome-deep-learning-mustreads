@@ -36,6 +36,8 @@ Optimization techniques, regularization, tips & tricks, distribution
 <br/>
 [Stochastic Weight Averaging](https://towardsdatascience.com/stochastic-weight-averaging-a-new-way-to-get-state-of-the-art-results-in-deep-learning-c639ccf36a)
 <br/>
+[Bag of Tricks for Image Classification with Convolutional Neural Networks 5 Dec 2018](https://arxiv.org/pdf/1812.01187.pdf)
+<br/>
 <br/>
 ## [Theory](https://github.com/lrunaways/awesome-deep-learning-mustreads/blob/master/topics/Theory.rst)
  Understanding how neural networks work on a deeper level
@@ -48,6 +50,8 @@ Optimization techniques, regularization, tips & tricks, distribution
 [Emergence of Invariance and Disentanglement in Deep Representations 28 Jun 2018](https://arxiv.org/pdf/1706.01350.pdf)
 <br/>
 [Averaging Weights Leads to Wider Optima and Better Generalization 25 Feb 2019](https://arxiv.org/pdf/1803.05407.pdf)
+<br/>
+[Towards a Mathematical Understanding of Neural Network-Based Machine Learning: what we know and what we don’t 1 Oct 2020](https://arxiv.org/pdf/2009.10713v2.pdf)
 <br/>
 <br/>
 ## [Computer vision](https://github.com/lrunaways/awesome-deep-learning-mustreads/blob/master/topics/Computer_vision.rst)
@@ -70,6 +74,8 @@ Generating and using synthetic data to improve performance on real data
 ## [GANs](https://github.com/lrunaways/awesome-deep-learning-mustreads/blob/master/topics/GANs.rst)
 Generative adversarial network evolution, tips on training
 <br/>
+<br/>
+[Generative Adversarial Networks 10 Jun 2014](https://arxiv.org/abs/1406.2661)
 <br/>
 [Deeplearning.ai specialization: Generative Adversarial Networks](https://www.coursera.org/specializations/generative-adversarial-networks-gans)
 <br/>
@@ -117,6 +123,15 @@ Generative adversarial network evolution, tips on training
 <br/>
 
 ## [Other](https://github.com/lrunaways/awesome-deep-learning-mustreads/blob/master/topics/Other.rst)
+<br/>
+<br/>
+[THE COST OF TRAINING NLP MODELS: A CONCISE OVERVIEW 19 Apr 2020](https://arxiv.org/pdf/2004.08900.pdf)
+<br/>
+[Distill blog](https://distill.pub/)
+<br/>
+
+
+## [Blogs](https://github.com/lrunaways/awesome-deep-learning-mustreads/blob/master/topics/blogs)
 Great articles, blogs and awesome lists
 <br/>
 <br/>
