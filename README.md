@@ -38,6 +38,8 @@ Optimization techniques, regularization, tips & tricks, distribution
 <br/>
 [Bag of Tricks for Image Classification with Convolutional Neural Networks 5 Dec 2018](https://arxiv.org/pdf/1812.01187.pdf)
 <br/>
+[Training Neural Nets on Larger Batches: Practical Tips for 1-GPU, Multi-GPU & Distributed setups](https://medium.com/huggingface/training-larger-batches-practical-tips-on-1-gpu-multi-gpu-distributed-setups-ec88c3e51255)
+<br/>
 <br/>
 ## [Theory](https://github.com/lrunaways/awesome-deep-learning-mustreads/blob/master/topics/Theory.rst)
  Understanding how neural networks work on a deeper level
@@ -67,6 +69,9 @@ Semantic segmentation, object localization
 Knowledge transfer, distilation, domain adaptation
 <br/>
 <br/>
+[Data augmentation using generative adversarial networks (CycleGAN) to improve generalizability in CT segmentation tasks](https://www.nature.com/articles/s41598-019-52737-x)
+<br/>
+<br/>
 ## [Synthetic data](https://github.com/lrunaways/awesome-deep-learning-mustreads/blob/master/topics/Synthetic_data.rst)
 Generating and using synthetic data to improve performance on real data
 <br/>
@@ -76,6 +81,10 @@ Generative adversarial network evolution, tips on training
 <br/>
 <br/>
 [Generative Adversarial Networks 10 Jun 2014](https://arxiv.org/abs/1406.2661)
+<br/>
+[Conditional Generative Adversarial Nets 6 Nov 2014](https://arxiv.org/abs/1411.1784)
+<br/>
+[Improved Techniques for Training GANs 10 Jun 2016](https://arxiv.org/pdf/1606.03498.pdf)
 <br/>
 [Deeplearning.ai specialization: Generative Adversarial Networks](https://www.coursera.org/specializations/generative-adversarial-networks-gans)
 <br/>
@@ -127,7 +136,7 @@ Generative adversarial network evolution, tips on training
 <br/>
 [THE COST OF TRAINING NLP MODELS: A CONCISE OVERVIEW 19 Apr 2020](https://arxiv.org/pdf/2004.08900.pdf)
 <br/>
-[Distill blog](https://distill.pub/)
+[On the Measure of Intelligence 25 Nov 2019](https://arxiv.org/pdf/1911.01547.pdf)
 <br/>
 
 
