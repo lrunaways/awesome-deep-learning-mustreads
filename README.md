@@ -138,7 +138,8 @@ Generative adversarial network evolution, tips on training
 <br/>
 [On the Measure of Intelligence 25 Nov 2019](https://arxiv.org/pdf/1911.01547.pdf)
 <br/>
-
+[Adversarial Robustness - Theory and Practice](https://adversarial-ml-tutorial.org/)
+<br/>
 
 ## [Blogs](https://github.com/lrunaways/awesome-deep-learning-mustreads/blob/master/topics/blogs)
 Great articles, blogs and awesome lists
