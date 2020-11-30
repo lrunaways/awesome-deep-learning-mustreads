@@ -160,3 +160,8 @@ Great articles, blogs and awesome lists
 [Neurohive](https://neurohive.io/)
 <br/>
 [Towards data science](https://towardsdatascience.com)
+
+
+--- add ---
+Autoaugment: Learning augmentation strategies from data
+Adversarial autoaugment
