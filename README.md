@@ -165,3 +165,11 @@ Great articles, blogs and awesome lists
 --- add ---
 Autoaugment: Learning augmentation strategies from data
 Adversarial autoaugment
+Towards principled methods for training generative adversarial networks.
+Self-supervised gans via auxiliary rotation loss
+Gans trained by a two time-scale update rule converge to a local nash equilibrium
+On the "steerability" of generative adversarial networks
+Are gans created equal? A large-scale study
+Spectral normalization for generative adversarial networks
+Self-attention generative adversarial networks.
+Unsupervised data augmentation for consistency training
