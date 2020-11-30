@@ -175,3 +175,4 @@ Self-attention generative adversarial networks.
 Unsupervised data augmentation for consistency training
 Amortised map inference for image super-resolution
 A simple framework for contrastive learning of visual representations.
+ A holistic approach to semi-supervised learning
