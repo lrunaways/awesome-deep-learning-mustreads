@@ -173,3 +173,4 @@ Are gans created equal? A large-scale study
 Spectral normalization for generative adversarial networks
 Self-attention generative adversarial networks.
 Unsupervised data augmentation for consistency training
+Amortised map inference for image super-resolution
