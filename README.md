@@ -112,6 +112,8 @@ Generative adversarial network evolution, tips on training
 <br/>
 [Analyzing and Improving the Image Quality of StyleGAN 23 Mar 2020](https://arxiv.org/pdf/1912.04958.pdf) 
 <br/>
+[Training Generative Adversarial Networks with Limited Data 7 Oct 2020](https://arxiv.org/abs/2006.06676)
+<br/>
 [Interpreting the Latent Space of GANs for Semantic Face Editing 25 Jul 2019](https://arxiv.org/abs/1907.10786)
 <br/>
 [Fast Fréchet Inception Distance 29 Sep 2020](https://arxiv.org/pdf/2009.14075.pdf)
@@ -129,6 +131,8 @@ Generative adversarial network evolution, tips on training
 (https://medium.com/@jonathan_hui/gan-how-to-measure-gan-performance-64b988c47732)
 (https://machinelearningmastery.com/how-to-implement-the-frechet-inception-distance-fid-from-scratch/)
 (https://github.com/sahilkhose/Generative-Adversarial-Networks-GANs-Specialization)
+<br/>
+[Image Augmentations for GAN Training 4 Jun 2020](https://arxiv.org/abs/2006.02595#google)
 <br/>
 
 ## [Other](https://github.com/lrunaways/awesome-deep-learning-mustreads/blob/master/topics/Other.rst)
