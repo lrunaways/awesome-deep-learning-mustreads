@@ -174,3 +174,4 @@ Spectral normalization for generative adversarial networks
 Self-attention generative adversarial networks.
 Unsupervised data augmentation for consistency training
 Amortised map inference for image super-resolution
+A simple framework for contrastive learning of visual representations.
