@@ -1,4 +1,4 @@
-# Awesome advanced deep learning
+# Awesome deep learning papers
 ### Must-read papers and must-known concepts
 <br/>
 
