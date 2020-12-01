@@ -144,7 +144,10 @@ Generative adversarial network evolution, tips on training
 <br/>
 [Adversarial Robustness - Theory and Practice](https://adversarial-ml-tutorial.org/)
 <br/>
-
+[Math as code](https://github.com/Jam3/math-as-code/)
+<br/>
+[Math Snippets](https://github.com/terkelg/math)
+<br/>
 ## [Blogs](https://github.com/lrunaways/awesome-deep-learning-mustreads/blob/master/topics/blogs)
 Great articles, blogs and awesome lists
 <br/>
@@ -176,3 +179,6 @@ Unsupervised data augmentation for consistency training
 Amortised map inference for image super-resolution
 A simple framework for contrastive learning of visual representations.
  A holistic approach to semi-supervised learning
+ Foreground-aware Semantic Representations for Image Harmonization
+ Foreground-aware Semantic Representations for Image Harmonization
+ https://habr.com/ru/post/527860/
