@@ -182,3 +182,4 @@ A simple framework for contrastive learning of visual representations.
  Foreground-aware Semantic Representations for Image Harmonization
  Foreground-aware Semantic Representations for Image Harmonization
  https://habr.com/ru/post/527860/
+ Freeze the discriminator: a simple baseline for fine-tuning GANs
