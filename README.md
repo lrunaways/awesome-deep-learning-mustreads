@@ -178,8 +178,11 @@ Self-attention generative adversarial networks.
 Unsupervised data augmentation for consistency training
 Amortised map inference for image super-resolution
 A simple framework for contrastive learning of visual representations.
- A holistic approach to semi-supervised learning
- Foreground-aware Semantic Representations for Image Harmonization
- Foreground-aware Semantic Representations for Image Harmonization
- https://habr.com/ru/post/527860/
- Freeze the discriminator: a simple baseline for fine-tuning GANs
+A holistic approach to semi-supervised learning
+Foreground-aware Semantic Representations for Image Harmonization
+Foreground-aware Semantic Representations for Image Harmonization
+https://habr.com/ru/post/527860/
+Freeze the discriminator: a simple baseline for fine-tuning GANs
+Towards principled methods for training generative adversarial networks.
+StarGAN v2: Diverse image synthesis for multiple domains.
+Progressive growing of GANs for improved quality, stability, and variation.
