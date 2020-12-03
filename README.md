@@ -186,3 +186,4 @@ Freeze the discriminator: a simple baseline for fine-tuning GANs
 Towards principled methods for training generative adversarial networks.
 StarGAN v2: Diverse image synthesis for multiple domains.
 Progressive growing of GANs for improved quality, stability, and variation.
+Navigating the GAN Parameter Space for Semantic Image Editing
