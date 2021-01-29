@@ -53,7 +53,7 @@ Optimization techniques, regularization, tips & tricks, distribution
 <br/>
 [Averaging Weights Leads to Wider Optima and Better Generalization 25 Feb 2019](https://arxiv.org/pdf/1803.05407.pdf)
 <br/>
-[Towards a Mathematical Understanding of Neural Network-Based Machine Learning: what we know and what we don’t 1 Oct 2020](https://arxiv.org/pdf/2009.10713v2.pdf)
+[Towards a Mathematical Understanding of Neural Network-Based Machine Learning 1 Oct 2020](https://arxiv.org/pdf/2009.10713v2.pdf)
 <br/>
 <br/>
 ## [Computer vision](https://github.com/lrunaways/awesome-deep-learning-mustreads/blob/master/topics/Computer_vision.rst)
