@@ -228,3 +228,6 @@ StarGAN v2: Diverse image synthesis for multiple domains.
 Progressive growing of GANs for improved quality, stability, and variation.
 Navigating the GAN Parameter Space for Semantic Image Editing
 https://arxiv.org/pdf/1909.13719.pdf
+[Implicit Neural Representations with Periodic Activation Functions](https://arxiv.org/pdf/2006.09661v1.pdf)
+[Stylized Neural Painting](https://arxiv.org/pdf/2011.08114v1.pdf)
+[A Neural Algorithm of Artistic Style](https://arxiv.org/pdf/1508.06576.pdf)
