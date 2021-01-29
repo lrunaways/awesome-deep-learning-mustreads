@@ -9,6 +9,8 @@ Neural networks evolution
 <br/>
 [Dilated Residual Networks 28 May 2017](https://arxiv.org/pdf/1705.09914.pdf)
 <br/>
+[Attention Is All You Need 6 Dec 2017](https://arxiv.org/pdf/1706.03762.pdf)
+<br/>
 [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks 28 May 2019](https://arxiv.org/abs/1905.11946)
 <br/>
 <br/>
@@ -20,6 +22,8 @@ Optimization techniques, regularization, tips & tricks, distribution
 <br/>
 [Multi-GPU Training of ConvNets 18 Feb 2014](https://arxiv.org/pdf/1312.5853.pdf)
 <br/>
+[The Effectiveness of Data Augmentation in Image Classification using Deep Learning 13 Dec 2017](https://arxiv.org/pdf/1712.04621.pdf)
+
 [Parallel and Distributed Deep Learning](https://web.stanford.edu/~rezab/classes/cme323/S16/projects_reports/hedge_usmani.pdf)
 <br/>
 [Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis 15 Sep 2018](https://arxiv.org/pdf/1802.09941.pdf)
@@ -39,6 +43,8 @@ Optimization techniques, regularization, tips & tricks, distribution
 [Bag of Tricks for Image Classification with Convolutional Neural Networks 5 Dec 2018](https://arxiv.org/pdf/1812.01187.pdf)
 <br/>
 [Training Neural Nets on Larger Batches: Practical Tips for 1-GPU, Multi-GPU & Distributed setups](https://medium.com/huggingface/training-larger-batches-practical-tips-on-1-gpu-multi-gpu-distributed-setups-ec88c3e51255)
+<br/>
+[Training Generative Adversarial Networks with Limited Data 7 Oct 2020](https://arxiv.org/pdf/2006.06676.pdf)
 <br/>
 <br/>
 ## [Theory](https://github.com/lrunaways/awesome-deep-learning-mustreads/blob/master/topics/Theory.rst)
@@ -98,17 +104,33 @@ Generative adversarial network evolution, tips on training
 <br/>
 [From GAN to WGAN 20 Aug 2017](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
 <br/>
+[Conditional Image Synthesis with Auxiliary Classifier GANs 20 Jul 2017](https://arxiv.org/pdf/1610.09585.pdf)
+
+[GANs for Biological Image Synthesis 12 Sep 2017](https://arxiv.org/pdf/1708.04692.pdf)
+<br/>
 [PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION 26 Feb 2018](https://arxiv.org/pdf/1710.10196.pdf)
 <br/>
 [Image-to-Image Translation with Conditional Adversarial Networks 26 Nov 2018](https://arxiv.org/pdf/1611.07004.pdf)
 <br/>
 [GAN DISSECTION: VISUALIZING AND UNDERSTANDING GENERATIVE ADVERSARIAL NETWORKS 8 Dec 2018](https://arxiv.org/pdf/1811.10597.pdf)
 <br/>
+[SPECTRAL NORMALIZATION FOR GENERATIVE ADVERSARIAL NETWORKS 16 Feb 2018](https://arxiv.org/pdf/1802.05957.pdf)
+<br/>
+[Image-to-Image Translation with Conditional Adversarial Networks 26 Nov 2018](https://arxiv.org/pdf/1611.07004.pdf)
+<br/>
+[DATA AUGMENTATION GENERATIVE ADVERSARIAL NETWORKS 21 Mar 2018](https://arxiv.org/pdf/1711.04340.pdf)
+<br/>
+[High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs 20 Aug 2018](https://arxiv.org/pdf/1711.11585.pdf)
+<br/>
 [LARGE SCALE GAN TRAINING FOR HIGH FIDELITY NATURAL IMAGE SYNTHESIS 25 Feb 2019](https://arxiv.org/pdf/1809.11096.pdf)
 <br/>
 [A Large-Scale Study on Regularization and Normalization in GANs 14 May 2019](https://arxiv.org/pdf/1807.04720.pdf)
 <br/>
 [A Style-Based Generator Architecture for Generative Adversarial Networks 29 Mar 2019](https://arxiv.org/pdf/1812.04948.pdf)
+<br/>
+[Attributing Fake Images to GANs: Learning and Analyzing GAN Fingerprints 16 Aug 2019](https://arxiv.org/pdf/1811.08180.pdf)
+<br/>
+[LARGE SCALE GAN TRAINING FOR HIGH FIDELITY NATURAL IMAGE SYNTHESIS 25 Feb 2019](https://arxiv.org/pdf/1809.11096.pdf)
 <br/>
 [Analyzing and Improving the Image Quality of StyleGAN 23 Mar 2020](https://arxiv.org/pdf/1912.04958.pdf) 
 <br/>
@@ -131,10 +153,26 @@ Generative adversarial network evolution, tips on training
 (https://medium.com/@jonathan_hui/gan-how-to-measure-gan-performance-64b988c47732)
 (https://machinelearningmastery.com/how-to-implement-the-frechet-inception-distance-fid-from-scratch/)
 (https://github.com/sahilkhose/Generative-Adversarial-Networks-GANs-Specialization)
+(https://arxiv.org/pdf/1807.10088.pdf)
+(https://arxiv.org/pdf/1802.10560.pdf)
+(http://wscg.zcu.cz/wscg2016/full/F71-full.pdf)
+(https://arxiv.org/pdf/2008.02796.pdf)
+(https://arxiv.org/pdf/1812.08352.pdf)
+(https://arxiv.org/pdf/1905.01164.pdf)
+(https://arxiv.org/pdf/1803.01229.pdf)
+(https://arxiv.org/pdf/1905.08233.pdf)
+(https://arxiv.org/pdf/1903.07291.pdf)
+(https://deeppop.github.io/resources/robinson2017-deeppop.pdf)
+
 <br/>
 [Image Augmentations for GAN Training 4 Jun 2020](https://arxiv.org/abs/2006.02595#google)
 <br/>
-
+[Navigating the GAN Parameter Space for Semantic Image Editing 1 Dec 2020](https://arxiv.org/pdf/2011.13786.pdf)
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ## [Other](https://github.com/lrunaways/awesome-deep-learning-mustreads/blob/master/topics/Other.rst)
 <br/>
 <br/>
@@ -187,3 +225,4 @@ Towards principled methods for training generative adversarial networks.
 StarGAN v2: Diverse image synthesis for multiple domains.
 Progressive growing of GANs for improved quality, stability, and variation.
 Navigating the GAN Parameter Space for Semantic Image Editing
+https://arxiv.org/pdf/1909.13719.pdf
