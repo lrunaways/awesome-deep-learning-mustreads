@@ -164,6 +164,7 @@ Generative adversarial network evolution, tips on training
 (https://arxiv.org/pdf/1905.08233.pdf)
 (https://arxiv.org/pdf/1903.07291.pdf)
 (https://deeppop.github.io/resources/robinson2017-deeppop.pdf)
+(https://machinelearningmastery.com/practical-guide-to-gan-failure-modes/)
 
 <br/>
 [Image Augmentations for GAN Training 4 Jun 2020](https://arxiv.org/abs/2006.02595#google)
