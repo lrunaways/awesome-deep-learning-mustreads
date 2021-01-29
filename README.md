@@ -10,6 +10,7 @@ Neural networks evolution
 [Dilated Residual Networks 28 May 2017](https://arxiv.org/pdf/1705.09914.pdf)
 <br/>
 [Attention Is All You Need [6 Dec 2017]](https://arxiv.org/pdf/1706.03762.pdf)
+(https://habr.com/ru/post/486158/)
 <br/>
 [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks 28 May 2019](https://arxiv.org/abs/1905.11946)
 <br/>
