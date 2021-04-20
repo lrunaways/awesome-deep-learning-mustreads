@@ -125,10 +125,10 @@ Generative adversarial network evolution, tips on training
 <br/>
 [Improved Techniques for Training GANs 10 Jun 2016](https://arxiv.org/pdf/1606.03498.pdf)
 <br/>
-Feature matching - match intermediate discriminator layer statistics of a batch for real and generated examples<br/>
+Feature matching - match intermediate discriminator layer statistics (mean) for real and generated examples<br/>
 Minibatch discrimination - compute closeness to examples in a batch and use it as additional info for disc<br/>
 Historical averaging - regularize weights to be not-very-far from previous weights of a network<br/>
-One-sided label smoothing - smooth positive examples to alpha (0.9)<br/>
+One-sided label smoothing - smooth (change) labels of positive examples to alpha (0.9)<br/>
 <br/>
 [Deeplearning.ai specialization: Generative Adversarial Networks](https://www.coursera.org/specializations/generative-adversarial-networks-gans)
 <br/>
