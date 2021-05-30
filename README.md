@@ -175,7 +175,7 @@ One-sided label smoothing - smooth (change) labels of positive examples to alpha
 [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs 20 Aug 2018](https://arxiv.org/pdf/1711.11585.pdf)
 <br/><br/>
 [Self-Attention Generative Adversarial Networks 14 Jun 2019](https://arxiv.org/pdf/1805.08318.pdf)
-Self-attention modules + Spectral normalization + separate learning rates.
+<br/>Self-attention modules + Spectral normalization + separate learning rates.
 <br/>Self attention:
 <br/>input: x
 <br/> f(x) = Wf * x
@@ -184,7 +184,7 @@ Self-attention modules + Spectral normalization + separate learning rates.
 <br/> h(x) = Wh * x
 <br/> u(x) = Wu * x
 <br/> attention map o = u(beta * h(x))
-<br/> output: a * o + x
+<br/><t/> output: a * o + x
 <br/><br/>
 [LARGE SCALE GAN TRAINING FOR HIGH FIDELITY NATURAL IMAGE SYNTHESIS 25 Feb 2019](https://arxiv.org/pdf/1809.11096.pdf)
 <br/><br/>
