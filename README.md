@@ -176,15 +176,15 @@ One-sided label smoothing - smooth (change) labels of positive examples to alpha
 <br/><br/>
 [Self-Attention Generative Adversarial Networks 14 Jun 2019](https://arxiv.org/pdf/1805.08318.pdf)
 Self-attention modules + Spectral normalization + separate learning rates.
-Self attention:
-input: x
- f(x) = Wf*x
- g(x) = Wg*x
- beta = row-wise softmax aplied to f(x).T*g(x)
- h(x) = Wh*x
- u(x) = Wu*x
- attention map o = u(beta*h(x))
- output: a*o + x
+<br/>Self attention:
+<br/>input: x
+<br/> f(x) = Wf*x
+<br/> g(x) = Wg*x
+<br/> beta = row-wise softmax aplied to f(x).T*g(x)
+<br/> h(x) = Wh*x
+<br/> u(x) = Wu*x
+<br/> attention map o = u(beta*h(x))
+<br/> output: a*o + x
 <br/><br/>
 [LARGE SCALE GAN TRAINING FOR HIGH FIDELITY NATURAL IMAGE SYNTHESIS 25 Feb 2019](https://arxiv.org/pdf/1809.11096.pdf)
 <br/><br/>
