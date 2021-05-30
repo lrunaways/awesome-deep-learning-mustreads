@@ -173,17 +173,25 @@ One-sided label smoothing - smooth (change) labels of positive examples to alpha
 <br/>
 <br/>
 [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs 20 Aug 2018](https://arxiv.org/pdf/1711.11585.pdf)
-<br/>
-<br/>
+<br/><br/>
+[Self-Attention Generative Adversarial Networks 14 Jun 2019](https://arxiv.org/pdf/1805.08318.pdf)
+Self-attention modules + Spectral normalization + separate learning rates.
+Self attention:
+input: x
+ f(x) = Wf*x
+ g(x) = Wg*x
+ beta = row-wise softmax aplied to f(x).T*g(x)
+ h(x) = Wh*x
+ u(x) = Wu*x
+ attention map o = u(beta*h(x))
+ output: a*o + x
+<br/><br/>
 [LARGE SCALE GAN TRAINING FOR HIGH FIDELITY NATURAL IMAGE SYNTHESIS 25 Feb 2019](https://arxiv.org/pdf/1809.11096.pdf)
-<br/>
-<br/>
+<br/><br/>
 [A Large-Scale Study on Regularization and Normalization in GANs 14 May 2019](https://arxiv.org/pdf/1807.04720.pdf)
-<br/>
-<br/>
+<br/><br/>
 [A Style-Based Generator Architecture for Generative Adversarial Networks 29 Mar 2019](https://arxiv.org/pdf/1812.04948.pdf)
-<br/>
-<br/>
+<br/><br/>
 [Attributing Fake Images to GANs: Learning and Analyzing GAN Fingerprints 16 Aug 2019](https://arxiv.org/pdf/1811.08180.pdf)
 <br/>
 <br/>
